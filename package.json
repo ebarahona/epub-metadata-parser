@@ -24,7 +24,7 @@
   "homepage": "https://github.com/aeroith/epub-metadata-parser#readme",
   "dependencies": {
     "lodash": "^4.17.4",
-    "mkdirp": "^0.5.1",
+    "mkdirp": "^1.0.0",
     "xml2js": "^0.4.17",
     "yauzl": "^2.7.0"
   },
